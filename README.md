@@ -1,2 +1,2 @@
-# Smoker-or-Non-smoker-classification
-Decision tree classifier, SVM classifier, Neural Nets
+# Smoker or Non-smoker Classification
+
